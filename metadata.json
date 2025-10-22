@@ -1,0 +1,9 @@
+{
+  "name": "EmaGPT: The Ultimate AI Creative Suite",
+  "description": "A comprehensive web application showcasing the power of the Gemini API. Features include real-time conversation, advanced image and video generation, content analysis, grounded search, and a versatile chatbot, all in one seamless experience.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
